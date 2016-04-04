@@ -20,38 +20,17 @@
 	<key>files2</key>
 	<dict>
 		<key>Headers/Test.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1iL+i2otVTNI9QE8qGVNRE1iKMM=
-			</data>
-			<key>hash2</key>
-			<data>
-			kgLdEXqChuwDmh5psa+umzpWaxQY8kkfaCzTp7iyhiQ=
-			</data>
-		</dict>
+		<data>
+		1iL+i2otVTNI9QE8qGVNRE1iKMM=
+		</data>
 		<key>Headers/TestSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tPXARyhSXzHjrdyXtz2nG2jwc/M=
-			</data>
-			<key>hash2</key>
-			<data>
-			/qtwZcbxMg9b5XLxW3D2co3H/tRJ18uy1SFxJI90THI=
-			</data>
-		</dict>
+		<data>
+		tPXARyhSXzHjrdyXtz2nG2jwc/M=
+		</data>
 		<key>Modules/module.modulemap</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UI6355DPHh/j7Licav9vi/o9Qlg=
-			</data>
-			<key>hash2</key>
-			<data>
-			bGX/zHP4nFgN9JYNnMGz7/pMluDkjWQ2/IB6i/uqWLU=
-			</data>
-		</dict>
+		<data>
+		UI6355DPHh/j7Licav9vi/o9Qlg=
+		</data>
 	</dict>
 	<key>rules</key>
 	<dict>
