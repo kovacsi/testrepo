@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/Test.h</key>
+		<data>
+		+nU8dojVEUvzFWQkhbvbg9A5Ozo=
+		</data>
 		<key>Headers/TestSDK.h</key>
 		<data>
-		7auvOkGrA0ke2qH1kL+Ui2nSqNU=
+		tPXARyhSXzHjrdyXtz2nG2jwc/M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -15,15 +19,26 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/Test.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+nU8dojVEUvzFWQkhbvbg9A5Ozo=
+			</data>
+			<key>hash2</key>
+			<data>
+			vUTMfeBQf1Z7JjkORgv8b3oIXysvoL/BeuXlFaU/btc=
+			</data>
+		</dict>
 		<key>Headers/TestSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7auvOkGrA0ke2qH1kL+Ui2nSqNU=
+			tPXARyhSXzHjrdyXtz2nG2jwc/M=
 			</data>
 			<key>hash2</key>
 			<data>
-			cQnwW3rA1YwpJ6m8zVsdnw4YlEjOU+ZhTMZ+vh/addw=
+			/qtwZcbxMg9b5XLxW3D2co3H/tRJ18uy1SFxJI90THI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
