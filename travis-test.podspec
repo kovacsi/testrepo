@@ -7,7 +7,6 @@ Pod::Spec.new do |spec|
   spec.summary              = 'Simple cocoapods test'
   spec.platform             = :ios, "8.4"
   spec.source               = { :git => 'https://github.com/kovacsi/testrepo.git', :tag => '1.0.3' }
-  spec.vendored_frameworks  = "build/Release-iphoneos/TestSDK.framework", "build/Release-iphonesimulator/TestSDK.framework"
-  spec.public_header_files  = "TestSDK/TestSDK.h"
+  spec.vendored_frameworks  = "Release-iphoneos/TestSDK.framework", "Release-iphonesimulator/TestSDK.framework"
   spec.requires_arc         = true
 end
