@@ -21,8 +21,10 @@ fi
 export POD_VERSION=$1
 export PODSPEC_FILE="travis-test.podspec"
 
-
 echo "Creating podspec..."
+echo "  Podspec version: $POD_VERSION"
+echo "     Git tag name: $GIT_TAG_NAME"
+
 echo -n "" > $PODSPEC_FILE
 echo "Pod::Spec.new do |spec|" >> $PODSPEC_FILE
 echo "  spec.name                 = 'travis-test'" >> $PODSPEC_FILE
